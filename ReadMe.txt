@@ -1,6 +1,6 @@
 RF_demo is inteded as an example implementation of the Decision Tree and Random Forest Classifier. 
 
-Requiremnets include the Python > 2.7 along with the following packages
+Requiremnets include Python >= 2.7 along with the following packages
 
 	- pandas
 	- numpy
